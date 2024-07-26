@@ -6,7 +6,6 @@ I thrive on tackling complex challenges and embracing new learning opportunities
 
 ## 🛠 Skills
 
-- **Mobile App Development:** Android & iOS
 - **Website Development**
 
 ---
@@ -40,14 +39,13 @@ I thrive on tackling complex challenges and embracing new learning opportunities
 - C-Panel
 - Firebase
 
-
 ---
 
 ## 🔗 Links
 
-- **Portfolio:** [Portfolio](https://md-tanvirhasantonmoy.vercel.app)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-tanvirhasantonmoy)
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue)](https://md-tanvirhasantonmoy.vercel.app)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/md-tanvirhasantonmoy)
 
 ## 📫 Contact
 
-- **Email:** [tonmoy15-5200@diu.edu.bd](tonmoy15-5200@diu.edu.bd)
+- **Email:** [tonmoy15-5200@diu.edu.bd](mailto:tonmoy15-5200@diu.edu.bd)
