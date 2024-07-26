@@ -1,16 +1,53 @@
-## Hi there 👋
+# 🚀 About Me
 
-<!--
-**tonmoy-Org/tonmoy-Org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I thrive on tackling complex challenges and embracing new learning opportunities. My focus is on delivering creative and effective solutions in fast-paced environments through collaborative teamwork. I'm eager to connect and explore how we can work together to create meaningful and impactful outcomes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Mobile App Development:** Android & iOS
+- **Website Development**
+
+---
+
+## ⚙️ Tech Stack
+
+**Front-End:**
+- Next.js
+- React
+- Redux
+- Tailwind
+- Bootstrap
+
+**Back-End:**
+- Node.js
+- Express.js
+
+**Programming Languages:**
+- JavaScript
+- Python
+- C
+- Java
+
+**Database:**
+- MongoDB
+
+**Version Control:**
+- GitHub
+
+**Hosting & Cloud:**
+- C-Panel
+- Firebase
+
+
+---
+
+## 🔗 Links
+
+- **Portfolio:** [Portfolio](https://md-tanvirhasantonmoy.vercel.app)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-tanvirhasantonmoy)
+
+## 📫 Contact
+
+- **Email:** [tonmoy15-5200@diu.edu.bd](tonmoy15-5200@diu.edu.bd)
