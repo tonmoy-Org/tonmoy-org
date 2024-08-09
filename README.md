@@ -25,6 +25,7 @@ I thrive on tackling complex challenges and embracing new learning opportunities
 
 **Programming Languages:**
 - JavaScript
+- TypeScript
 - Python
 - C
 - Java
